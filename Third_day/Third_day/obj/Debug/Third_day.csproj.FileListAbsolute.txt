@@ -1,0 +1,8 @@
+C:\My_github\problem-solving\Third_day\Third_day\bin\Debug\Third_day.exe.config
+C:\My_github\problem-solving\Third_day\Third_day\bin\Debug\Third_day.exe
+C:\My_github\problem-solving\Third_day\Third_day\bin\Debug\Third_day.pdb
+C:\My_github\problem-solving\Third_day\Third_day\obj\Debug\Third_day.csproj.AssemblyReference.cache
+C:\My_github\problem-solving\Third_day\Third_day\obj\Debug\Third_day.csproj.CoreCompileInputs.cache
+C:\My_github\problem-solving\Third_day\Third_day\obj\Debug\Third_day.exe
+C:\My_github\problem-solving\Third_day\Third_day\obj\Debug\Third_day.pdb
+C:\My_github\problem-solving\Third_day\Third_day\obj\Debug\Third_day.exe.config
