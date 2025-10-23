@@ -1,0 +1,7 @@
+C:\My_github\problem-solving\6_day\6_day\bin\Debug\6_day.exe.config
+C:\My_github\problem-solving\6_day\6_day\bin\Debug\6_day.exe
+C:\My_github\problem-solving\6_day\6_day\bin\Debug\6_day.pdb
+C:\My_github\problem-solving\6_day\6_day\obj\Debug\6_day.csproj.AssemblyReference.cache
+C:\My_github\problem-solving\6_day\6_day\obj\Debug\6_day.csproj.CoreCompileInputs.cache
+C:\My_github\problem-solving\6_day\6_day\obj\Debug\6_day.exe
+C:\My_github\problem-solving\6_day\6_day\obj\Debug\6_day.pdb
