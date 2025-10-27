@@ -10,6 +10,11 @@ using System.Windows.Forms;
 
 namespace SendDataBackToFromUsingDelgate
 {
+
+    /*
+     "8 day 27.10.2025  Data Communication Between Forms Using Delegates in C# "
+     
+     */
     public partial class Form2 : Form
     {
 
