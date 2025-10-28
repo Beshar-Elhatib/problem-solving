@@ -1,0 +1,8 @@
+C:\My_github\problem-solving\linyarSearch\linyarSearch\bin\Debug\linyarSearch.exe.config
+C:\My_github\problem-solving\linyarSearch\linyarSearch\bin\Debug\linyarSearch.exe
+C:\My_github\problem-solving\linyarSearch\linyarSearch\bin\Debug\linyarSearch.pdb
+C:\My_github\problem-solving\linyarSearch\linyarSearch\obj\Debug\linyarSearch.csproj.AssemblyReference.cache
+C:\My_github\problem-solving\linyarSearch\linyarSearch\obj\Debug\linyarSearch.csproj.CoreCompileInputs.cache
+C:\My_github\problem-solving\linyarSearch\linyarSearch\obj\Debug\linyarSearch.exe
+C:\My_github\problem-solving\linyarSearch\linyarSearch\obj\Debug\linyarSearch.pdb
+C:\My_github\problem-solving\linyarSearch\linyarSearch\obj\Debug\linyarSearch.exe.config

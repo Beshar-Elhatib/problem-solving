@@ -37,7 +37,6 @@ namespace SendDataBackToFromUsingDelgate
             // Trigger the event to send data back to Form1
             DataBack?.Invoke(this, PersonID);
 
-           
             this.Close();
         }
 
