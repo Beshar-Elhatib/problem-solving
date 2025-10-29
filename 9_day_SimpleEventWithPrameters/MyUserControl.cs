@@ -38,7 +38,7 @@ namespace SimpleEventWithPrameters
         // Define a custom event handler delegate with parameters
         public event Action<int> OnCalculationComplete;
         // Create a protected method to raise the event with a parameter
-        protected virtual void CalculationComplete(int PersonID)
+        protected  virtual void CalculationComplete(int PersonID)
         {
             Action<int> handler = OnCalculationComplete;
             if (handler != null)

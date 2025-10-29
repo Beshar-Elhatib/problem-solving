@@ -22,3 +22,15 @@ C:\C#\Mohammed Abu-Hadhoud\20_C#_level2\SimpleEventWithPrameters\SimpleEventWith
 C:\C#\Mohammed Abu-Hadhoud\20_C#_level2\SimpleEventWithPrameters\SimpleEventWithPrameters\obj\Debug\SimpleEventWithPrameters.csproj.CoreCompileInputs.cache
 C:\C#\Mohammed Abu-Hadhoud\20_C#_level2\SimpleEventWithPrameters\SimpleEventWithPrameters\obj\Debug\SimpleEventWithPrameters.exe
 C:\C#\Mohammed Abu-Hadhoud\20_C#_level2\SimpleEventWithPrameters\SimpleEventWithPrameters\obj\Debug\SimpleEventWithPrameters.pdb
+C:\My_github\problem-solving\9_day_SimpleEventWithPrameters\bin\Debug\SimpleEventWithPrameters.exe.config
+C:\My_github\problem-solving\9_day_SimpleEventWithPrameters\bin\Debug\SimpleEventWithPrameters.exe
+C:\My_github\problem-solving\9_day_SimpleEventWithPrameters\bin\Debug\SimpleEventWithPrameters.pdb
+C:\My_github\problem-solving\9_day_SimpleEventWithPrameters\obj\Debug\SimpleEventWithPrameters.csproj.AssemblyReference.cache
+C:\My_github\problem-solving\9_day_SimpleEventWithPrameters\obj\Debug\SimpleEventWithPrameters.exe.config
+C:\My_github\problem-solving\9_day_SimpleEventWithPrameters\obj\Debug\SimpleEventWithPrameters.Form1.resources
+C:\My_github\problem-solving\9_day_SimpleEventWithPrameters\obj\Debug\SimpleEventWithPrameters.MyUserControl.resources
+C:\My_github\problem-solving\9_day_SimpleEventWithPrameters\obj\Debug\SimpleEventWithPrameters.Properties.Resources.resources
+C:\My_github\problem-solving\9_day_SimpleEventWithPrameters\obj\Debug\SimpleEventWithPrameters.csproj.GenerateResource.cache
+C:\My_github\problem-solving\9_day_SimpleEventWithPrameters\obj\Debug\SimpleEventWithPrameters.csproj.CoreCompileInputs.cache
+C:\My_github\problem-solving\9_day_SimpleEventWithPrameters\obj\Debug\SimpleEventWithPrameters.exe
+C:\My_github\problem-solving\9_day_SimpleEventWithPrameters\obj\Debug\SimpleEventWithPrameters.pdb
