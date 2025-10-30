@@ -1,0 +1,32 @@
+C:\Users\Saldina\Desktop\BankAccountsApp\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.Form1.resources
+C:\Users\Saldina\Desktop\BankAccountsApp\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.csproj.GenerateResource.cache
+C:\Users\Saldina\Desktop\BankAccountsApp\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saldina\Desktop\BankAccountsApp\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.AssemblyInfoInputs.cache
+C:\Users\Saldina\Desktop\BankAccountsApp\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.AssemblyInfo.cs
+C:\Users\Saldina\Desktop\BankAccountsApp\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.csproj.CoreCompileInputs.cache
+C:\Users\Saldina\Desktop\BankAccountsApp\BankAccountsApp\bin\Debug\net8.0-windows\BankAccountsApp.exe
+C:\Users\Saldina\Desktop\BankAccountsApp\BankAccountsApp\bin\Debug\net8.0-windows\BankAccountsApp.deps.json
+C:\Users\Saldina\Desktop\BankAccountsApp\BankAccountsApp\bin\Debug\net8.0-windows\BankAccountsApp.runtimeconfig.json
+C:\Users\Saldina\Desktop\BankAccountsApp\BankAccountsApp\bin\Debug\net8.0-windows\BankAccountsApp.dll
+C:\Users\Saldina\Desktop\BankAccountsApp\BankAccountsApp\bin\Debug\net8.0-windows\BankAccountsApp.pdb
+C:\Users\Saldina\Desktop\BankAccountsApp\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.dll
+C:\Users\Saldina\Desktop\BankAccountsApp\BankAccountsApp\obj\Debug\net8.0-windows\refint\BankAccountsApp.dll
+C:\Users\Saldina\Desktop\BankAccountsApp\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.pdb
+C:\Users\Saldina\Desktop\BankAccountsApp\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.genruntimeconfig.cache
+C:\Users\Saldina\Desktop\BankAccountsApp\BankAccountsApp\obj\Debug\net8.0-windows\ref\BankAccountsApp.dll
+C:\Users\BESSAR ELHATIB\Downloads\Bank-Accounts-App.OOP-Events-Youtube-video-master\Bank-Accounts-App.OOP-Events-Youtube-video-master\BankAccountsApp\bin\Debug\net8.0-windows\BankAccountsApp.exe
+C:\Users\BESSAR ELHATIB\Downloads\Bank-Accounts-App.OOP-Events-Youtube-video-master\Bank-Accounts-App.OOP-Events-Youtube-video-master\BankAccountsApp\bin\Debug\net8.0-windows\BankAccountsApp.deps.json
+C:\Users\BESSAR ELHATIB\Downloads\Bank-Accounts-App.OOP-Events-Youtube-video-master\Bank-Accounts-App.OOP-Events-Youtube-video-master\BankAccountsApp\bin\Debug\net8.0-windows\BankAccountsApp.runtimeconfig.json
+C:\Users\BESSAR ELHATIB\Downloads\Bank-Accounts-App.OOP-Events-Youtube-video-master\Bank-Accounts-App.OOP-Events-Youtube-video-master\BankAccountsApp\bin\Debug\net8.0-windows\BankAccountsApp.dll
+C:\Users\BESSAR ELHATIB\Downloads\Bank-Accounts-App.OOP-Events-Youtube-video-master\Bank-Accounts-App.OOP-Events-Youtube-video-master\BankAccountsApp\bin\Debug\net8.0-windows\BankAccountsApp.pdb
+C:\Users\BESSAR ELHATIB\Downloads\Bank-Accounts-App.OOP-Events-Youtube-video-master\Bank-Accounts-App.OOP-Events-Youtube-video-master\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.Form1.resources
+C:\Users\BESSAR ELHATIB\Downloads\Bank-Accounts-App.OOP-Events-Youtube-video-master\Bank-Accounts-App.OOP-Events-Youtube-video-master\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.csproj.GenerateResource.cache
+C:\Users\BESSAR ELHATIB\Downloads\Bank-Accounts-App.OOP-Events-Youtube-video-master\Bank-Accounts-App.OOP-Events-Youtube-video-master\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BESSAR ELHATIB\Downloads\Bank-Accounts-App.OOP-Events-Youtube-video-master\Bank-Accounts-App.OOP-Events-Youtube-video-master\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.AssemblyInfoInputs.cache
+C:\Users\BESSAR ELHATIB\Downloads\Bank-Accounts-App.OOP-Events-Youtube-video-master\Bank-Accounts-App.OOP-Events-Youtube-video-master\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.AssemblyInfo.cs
+C:\Users\BESSAR ELHATIB\Downloads\Bank-Accounts-App.OOP-Events-Youtube-video-master\Bank-Accounts-App.OOP-Events-Youtube-video-master\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.csproj.CoreCompileInputs.cache
+C:\Users\BESSAR ELHATIB\Downloads\Bank-Accounts-App.OOP-Events-Youtube-video-master\Bank-Accounts-App.OOP-Events-Youtube-video-master\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.dll
+C:\Users\BESSAR ELHATIB\Downloads\Bank-Accounts-App.OOP-Events-Youtube-video-master\Bank-Accounts-App.OOP-Events-Youtube-video-master\BankAccountsApp\obj\Debug\net8.0-windows\refint\BankAccountsApp.dll
+C:\Users\BESSAR ELHATIB\Downloads\Bank-Accounts-App.OOP-Events-Youtube-video-master\Bank-Accounts-App.OOP-Events-Youtube-video-master\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.pdb
+C:\Users\BESSAR ELHATIB\Downloads\Bank-Accounts-App.OOP-Events-Youtube-video-master\Bank-Accounts-App.OOP-Events-Youtube-video-master\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.genruntimeconfig.cache
+C:\Users\BESSAR ELHATIB\Downloads\Bank-Accounts-App.OOP-Events-Youtube-video-master\Bank-Accounts-App.OOP-Events-Youtube-video-master\BankAccountsApp\obj\Debug\net8.0-windows\ref\BankAccountsApp.dll
