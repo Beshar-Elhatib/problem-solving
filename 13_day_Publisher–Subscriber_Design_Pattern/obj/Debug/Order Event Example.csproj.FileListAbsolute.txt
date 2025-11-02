@@ -13,3 +13,11 @@ C:\C#\Mohammed Abu-Hadhoud\20_C#_level2\Order Event Example\obj\Debug\EventArgs.
 C:\C#\Mohammed Abu-Hadhoud\20_C#_level2\Order Event Example\obj\Debug\Order Event Example.csproj.CoreCompileInputs.cache
 C:\C#\Mohammed Abu-Hadhoud\20_C#_level2\Order Event Example\obj\Debug\EventArgs.exe
 C:\C#\Mohammed Abu-Hadhoud\20_C#_level2\Order Event Example\obj\Debug\EventArgs.pdb
+C:\My_github\problem-solving\13_day_Publisher–Subscriber_Design_Pattern\bin\Debug\EventArgs.exe.config
+C:\My_github\problem-solving\13_day_Publisher–Subscriber_Design_Pattern\bin\Debug\EventArgs.exe
+C:\My_github\problem-solving\13_day_Publisher–Subscriber_Design_Pattern\bin\Debug\EventArgs.pdb
+C:\My_github\problem-solving\13_day_Publisher–Subscriber_Design_Pattern\obj\Debug\Order Event Example.csproj.AssemblyReference.cache
+C:\My_github\problem-solving\13_day_Publisher–Subscriber_Design_Pattern\obj\Debug\EventArgs.exe.config
+C:\My_github\problem-solving\13_day_Publisher–Subscriber_Design_Pattern\obj\Debug\Order Event Example.csproj.CoreCompileInputs.cache
+C:\My_github\problem-solving\13_day_Publisher–Subscriber_Design_Pattern\obj\Debug\EventArgs.exe
+C:\My_github\problem-solving\13_day_Publisher–Subscriber_Design_Pattern\obj\Debug\EventArgs.pdb

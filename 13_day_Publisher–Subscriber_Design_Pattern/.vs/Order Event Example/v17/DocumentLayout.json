@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\C#\\Mohammed Abu-Hadhoud\\20_C#_level2\\Order Event Example\\",
+  "WorkspaceRootPath": "C:\\My_github\\problem-solving\\13_day_Publisher\u2013Subscriber_Design_Pattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1E75058B-F194-4421-B198-F7C555CA2A9B}|Order Event Example.csproj|c:\\c#\\mohammed abu-hadhoud\\20_c#_level2\\order event example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1E75058B-F194-4421-B198-F7C555CA2A9B}|Order Event Example.csproj|c:\\my_github\\problem-solving\\13_day_publisher\u2013subscriber_design_pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E75058B-F194-4421-B198-F7C555CA2A9B}|Order Event Example.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\C#\\Mohammed Abu-Hadhoud\\20_C#_level2\\Order Event Example\\Program.cs",
+              "DocumentMoniker": "C:\\My_github\\problem-solving\\13_day_Publisher\u2013Subscriber_Design_Pattern\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\C#\\Mohammed Abu-Hadhoud\\20_C#_level2\\Order Event Example\\Program.cs",
+              "ToolTip": "C:\\My_github\\problem-solving\\13_day_Publisher\u2013Subscriber_Design_Pattern\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAuwI0AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswDUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-01T11:02:18.074Z",
               "EditorCaption": ""
