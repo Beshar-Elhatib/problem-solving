@@ -1,0 +1,8 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\12 Attributes\Obsolete Attribute\Obsolete Attribute Example\Obsolete Attribute Example\bin\Debug\Obsolete Attribute Example.exe.config
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\12 Attributes\Obsolete Attribute\Obsolete Attribute Example\Obsolete Attribute Example\bin\Debug\Obsolete Attribute Example.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\12 Attributes\Obsolete Attribute\Obsolete Attribute Example\Obsolete Attribute Example\bin\Debug\Obsolete Attribute Example.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\12 Attributes\Obsolete Attribute\Obsolete Attribute Example\Obsolete Attribute Example\obj\Debug\Obsolete Attribute Example.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\12 Attributes\Obsolete Attribute\Obsolete Attribute Example\Obsolete Attribute Example\obj\Debug\Obsolete Attribute Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\12 Attributes\Obsolete Attribute\Obsolete Attribute Example\Obsolete Attribute Example\obj\Debug\Obsolete Attribute Example.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\12 Attributes\Obsolete Attribute\Obsolete Attribute Example\Obsolete Attribute Example\obj\Debug\Obsolete Attribute Example.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\12 Attributes\Obsolete Attribute\Obsolete Attribute Example\Obsolete Attribute Example\obj\Debug\Obsolete Attribute Example.pdb
