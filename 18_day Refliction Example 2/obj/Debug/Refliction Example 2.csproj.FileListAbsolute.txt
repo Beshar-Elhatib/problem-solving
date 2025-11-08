@@ -6,3 +6,11 @@ C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\13 Reflection\Projects\
 C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\13 Reflection\Projects\Refliction Example 1\obj\Debug\Refliction Example 2.csproj.CoreCompileInputs.cache
 C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\13 Reflection\Projects\Refliction Example 1\obj\Debug\Refliction Example 1.exe
 C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\13 Reflection\Projects\Refliction Example 1\obj\Debug\Refliction Example 1.pdb
+C:\My_github\problem-solving\18_day Refliction Example 2\bin\Debug\Refliction Example 1.exe.config
+C:\My_github\problem-solving\18_day Refliction Example 2\bin\Debug\Refliction Example 1.exe
+C:\My_github\problem-solving\18_day Refliction Example 2\bin\Debug\Refliction Example 1.pdb
+C:\My_github\problem-solving\18_day Refliction Example 2\obj\Debug\Refliction Example 2.csproj.AssemblyReference.cache
+C:\My_github\problem-solving\18_day Refliction Example 2\obj\Debug\Refliction Example 1.exe.config
+C:\My_github\problem-solving\18_day Refliction Example 2\obj\Debug\Refliction Example 2.csproj.CoreCompileInputs.cache
+C:\My_github\problem-solving\18_day Refliction Example 2\obj\Debug\Refliction Example 1.exe
+C:\My_github\problem-solving\18_day Refliction Example 2\obj\Debug\Refliction Example 1.pdb
