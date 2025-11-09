@@ -1,0 +1,16 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\16 Generics\Projects\Generic Method Example\bin\Debug\Generic Method Example.exe.config
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\16 Generics\Projects\Generic Method Example\bin\Debug\Generic Method Example.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\16 Generics\Projects\Generic Method Example\bin\Debug\Generic Method Example.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\16 Generics\Projects\Generic Method Example\obj\Debug\Generic Method Example.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\16 Generics\Projects\Generic Method Example\obj\Debug\Generic Method Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\16 Generics\Projects\Generic Method Example\obj\Debug\Generic Method Example.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\16 Generics\Projects\Generic Method Example\obj\Debug\Generic Method Example.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\16 Generics\Projects\Generic Method Example\obj\Debug\Generic Method Example.pdb
+C:\C#\Mohammed Abu-Hadhoud\20_C#_level2\Generic Method Example\bin\Debug\Generic Method Example.exe.config
+C:\C#\Mohammed Abu-Hadhoud\20_C#_level2\Generic Method Example\bin\Debug\Generic Method Example.exe
+C:\C#\Mohammed Abu-Hadhoud\20_C#_level2\Generic Method Example\bin\Debug\Generic Method Example.pdb
+C:\C#\Mohammed Abu-Hadhoud\20_C#_level2\Generic Method Example\obj\Debug\Generic Method Example.csproj.AssemblyReference.cache
+C:\C#\Mohammed Abu-Hadhoud\20_C#_level2\Generic Method Example\obj\Debug\Generic Method Example.exe.config
+C:\C#\Mohammed Abu-Hadhoud\20_C#_level2\Generic Method Example\obj\Debug\Generic Method Example.csproj.CoreCompileInputs.cache
+C:\C#\Mohammed Abu-Hadhoud\20_C#_level2\Generic Method Example\obj\Debug\Generic Method Example.exe
+C:\C#\Mohammed Abu-Hadhoud\20_C#_level2\Generic Method Example\obj\Debug\Generic Method Example.pdb
