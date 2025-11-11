@@ -1,0 +1,24 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\17 Windows Registry\Projects\Reading from the Registry\bin\Debug\Reading from the Registry.exe.config
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\17 Windows Registry\Projects\Reading from the Registry\bin\Debug\Reading from the Registry.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\17 Windows Registry\Projects\Reading from the Registry\bin\Debug\Reading from the Registry.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\17 Windows Registry\Projects\Reading from the Registry\obj\Debug\Reading from the Registry.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\17 Windows Registry\Projects\Reading from the Registry\obj\Debug\Reading from the Registry.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\17 Windows Registry\Projects\Reading from the Registry\obj\Debug\Reading from the Registry.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\17 Windows Registry\Projects\Reading from the Registry\obj\Debug\Reading from the Registry.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\17 Windows Registry\Projects\Reading from the Registry\obj\Debug\Reading from the Registry.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\17 Windows Registry\03 Reading from Registry\Reading from the Registry\bin\Debug\Reading from the Registry.exe.config
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\17 Windows Registry\03 Reading from Registry\Reading from the Registry\bin\Debug\Reading from the Registry.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\17 Windows Registry\03 Reading from Registry\Reading from the Registry\bin\Debug\Reading from the Registry.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\17 Windows Registry\03 Reading from Registry\Reading from the Registry\obj\Debug\Reading from the Registry.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\17 Windows Registry\03 Reading from Registry\Reading from the Registry\obj\Debug\Reading from the Registry.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\17 Windows Registry\03 Reading from Registry\Reading from the Registry\obj\Debug\Reading from the Registry.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\17 Windows Registry\03 Reading from Registry\Reading from the Registry\obj\Debug\Reading from the Registry.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\17 Windows Registry\03 Reading from Registry\Reading from the Registry\obj\Debug\Reading from the Registry.pdb
+C:\C#\Mohammed Abu-Hadhoud\20_C#_level2\Reading from the Registry\bin\Debug\Reading from the Registry.exe.config
+C:\C#\Mohammed Abu-Hadhoud\20_C#_level2\Reading from the Registry\bin\Debug\Reading from the Registry.exe
+C:\C#\Mohammed Abu-Hadhoud\20_C#_level2\Reading from the Registry\bin\Debug\Reading from the Registry.pdb
+C:\C#\Mohammed Abu-Hadhoud\20_C#_level2\Reading from the Registry\obj\Debug\Reading from the Registry.csproj.AssemblyReference.cache
+C:\C#\Mohammed Abu-Hadhoud\20_C#_level2\Reading from the Registry\obj\Debug\Reading from the Registry.exe.config
+C:\C#\Mohammed Abu-Hadhoud\20_C#_level2\Reading from the Registry\obj\Debug\Reading from the Registry.csproj.CoreCompileInputs.cache
+C:\C#\Mohammed Abu-Hadhoud\20_C#_level2\Reading from the Registry\obj\Debug\Reading from the Registry.exe
+C:\C#\Mohammed Abu-Hadhoud\20_C#_level2\Reading from the Registry\obj\Debug\Reading from the Registry.pdb
