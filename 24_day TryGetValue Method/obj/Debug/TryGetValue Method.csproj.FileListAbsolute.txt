@@ -1,0 +1,8 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\04 Dictionary\02 TryGetValue\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Acer\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\04 Dictionary\02 TryGetValue\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\04 Dictionary\02 TryGetValue\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\04 Dictionary\02 TryGetValue\ConsoleApp1\obj\Debug\TryGetValue Method.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\04 Dictionary\02 TryGetValue\ConsoleApp1\obj\Debug\TryGetValue Method.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\04 Dictionary\02 TryGetValue\ConsoleApp1\obj\Debug\TryGetValue Method.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\04 Dictionary\02 TryGetValue\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\04 Dictionary\02 TryGetValue\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
