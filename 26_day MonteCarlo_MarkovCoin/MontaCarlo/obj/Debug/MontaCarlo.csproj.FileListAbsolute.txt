@@ -1,0 +1,8 @@
+C:\Users\BESSAR ELHATIB\Desktop\simulasyon\MontaCarlo\MontaCarlo\bin\Debug\MontaCarlo.exe.config
+C:\Users\BESSAR ELHATIB\Desktop\simulasyon\MontaCarlo\MontaCarlo\bin\Debug\MontaCarlo.exe
+C:\Users\BESSAR ELHATIB\Desktop\simulasyon\MontaCarlo\MontaCarlo\bin\Debug\MontaCarlo.pdb
+C:\Users\BESSAR ELHATIB\Desktop\simulasyon\MontaCarlo\MontaCarlo\obj\Debug\MontaCarlo.csproj.AssemblyReference.cache
+C:\Users\BESSAR ELHATIB\Desktop\simulasyon\MontaCarlo\MontaCarlo\obj\Debug\MontaCarlo.csproj.CoreCompileInputs.cache
+C:\Users\BESSAR ELHATIB\Desktop\simulasyon\MontaCarlo\MontaCarlo\obj\Debug\MontaCarlo.exe
+C:\Users\BESSAR ELHATIB\Desktop\simulasyon\MontaCarlo\MontaCarlo\obj\Debug\MontaCarlo.pdb
+C:\Users\BESSAR ELHATIB\Desktop\simulasyon\MontaCarlo\MontaCarlo\obj\Debug\MontaCarlo.exe.config
