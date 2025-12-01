@@ -83,7 +83,7 @@ namespace trafik_light_Project
         {
             RedLightOn?.Invoke(this, e);
         }
-
+        
         public LightEnum CurrentLight  
         { 
             get 

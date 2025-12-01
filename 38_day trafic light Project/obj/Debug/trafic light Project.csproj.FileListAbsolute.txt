@@ -46,3 +46,15 @@ C:\C#\Mohammed Abu-Hadhoud\20_C#_level2\trafic light Project\obj\Debug\trafic li
 C:\C#\Mohammed Abu-Hadhoud\20_C#_level2\trafic light Project\obj\Debug\trafic light Project.csproj.CoreCompileInputs.cache
 C:\C#\Mohammed Abu-Hadhoud\20_C#_level2\trafic light Project\obj\Debug\trafik light Project.exe
 C:\C#\Mohammed Abu-Hadhoud\20_C#_level2\trafic light Project\obj\Debug\trafik light Project.pdb
+C:\My_github\problem-solving\38_day trafic light Project\bin\Debug\trafik light Project.exe.config
+C:\My_github\problem-solving\38_day trafic light Project\bin\Debug\trafik light Project.exe
+C:\My_github\problem-solving\38_day trafic light Project\bin\Debug\trafik light Project.pdb
+C:\My_github\problem-solving\38_day trafic light Project\obj\Debug\trafic light Project.csproj.AssemblyReference.cache
+C:\My_github\problem-solving\38_day trafic light Project\obj\Debug\trafik light Project.exe.config
+C:\My_github\problem-solving\38_day trafic light Project\obj\Debug\trafik_light_Project.ctrlTraficLight.resources
+C:\My_github\problem-solving\38_day trafic light Project\obj\Debug\trafik_light_Project.Form1.resources
+C:\My_github\problem-solving\38_day trafic light Project\obj\Debug\trafik_light_Project.Properties.Resources.resources
+C:\My_github\problem-solving\38_day trafic light Project\obj\Debug\trafic light Project.csproj.GenerateResource.cache
+C:\My_github\problem-solving\38_day trafic light Project\obj\Debug\trafic light Project.csproj.CoreCompileInputs.cache
+C:\My_github\problem-solving\38_day trafic light Project\obj\Debug\trafik light Project.exe
+C:\My_github\problem-solving\38_day trafic light Project\obj\Debug\trafik light Project.pdb

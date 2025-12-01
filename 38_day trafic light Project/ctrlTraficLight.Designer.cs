@@ -28,10 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
             this.pbLight = new System.Windows.Forms.PictureBox();
             this.lblCountDown = new System.Windows.Forms.Label();
-            this.LightTimer = new System.Windows.Forms.Timer();
+            this.LightTimer = new System.Windows.Forms.Timer(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
@@ -45,6 +46,7 @@
             this.splitContainer1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.splitContainer1.IsSplitterFixed = true;
             this.splitContainer1.Location = new System.Drawing.Point(0, 0);
+            this.splitContainer1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.splitContainer1.Name = "splitContainer1";
             this.splitContainer1.Orientation = System.Windows.Forms.Orientation.Horizontal;
             // 
@@ -55,8 +57,8 @@
             // splitContainer1.Panel2
             // 
             this.splitContainer1.Panel2.Controls.Add(this.lblCountDown);
-            this.splitContainer1.Size = new System.Drawing.Size(56, 147);
-            this.splitContainer1.SplitterDistance = 118;
+            this.splitContainer1.Size = new System.Drawing.Size(75, 181);
+            this.splitContainer1.SplitterDistance = 145;
             this.splitContainer1.SplitterWidth = 1;
             this.splitContainer1.TabIndex = 1;
             // 
@@ -65,8 +67,9 @@
             this.pbLight.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pbLight.Image = global::trafik_light_Project.Properties.Resources.Red;
             this.pbLight.Location = new System.Drawing.Point(0, 0);
+            this.pbLight.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbLight.Name = "pbLight";
-            this.pbLight.Size = new System.Drawing.Size(56, 118);
+            this.pbLight.Size = new System.Drawing.Size(75, 145);
             this.pbLight.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pbLight.TabIndex = 1;
             this.pbLight.TabStop = false;
@@ -77,8 +80,9 @@
             this.lblCountDown.Font = new System.Drawing.Font("Gill Sans MT", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblCountDown.ForeColor = System.Drawing.Color.ForestGreen;
             this.lblCountDown.Location = new System.Drawing.Point(0, 0);
+            this.lblCountDown.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblCountDown.Name = "lblCountDown";
-            this.lblCountDown.Size = new System.Drawing.Size(56, 28);
+            this.lblCountDown.Size = new System.Drawing.Size(75, 35);
             this.lblCountDown.TabIndex = 0;
             this.lblCountDown.Text = "??";
             this.lblCountDown.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -90,13 +94,13 @@
             // 
             // ctrlTraficLight
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.Controls.Add(this.splitContainer1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "ctrlTraficLight";
-            this.Size = new System.Drawing.Size(56, 147);
-          
+            this.Size = new System.Drawing.Size(75, 181);
             this.splitContainer1.Panel1.ResumeLayout(false);
             this.splitContainer1.Panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).EndInit();
