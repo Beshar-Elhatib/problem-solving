@@ -1,0 +1,8 @@
+C:\My_github\problem-solving\44_day LinqWithTupelsExample\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\My_github\problem-solving\44_day LinqWithTupelsExample\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\My_github\problem-solving\44_day LinqWithTupelsExample\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\My_github\problem-solving\44_day LinqWithTupelsExample\ConsoleApp1\obj\Debug\LinqWithTupelsExample.csproj.AssemblyReference.cache
+C:\My_github\problem-solving\44_day LinqWithTupelsExample\ConsoleApp1\obj\Debug\ConsoleApp1.exe.config
+C:\My_github\problem-solving\44_day LinqWithTupelsExample\ConsoleApp1\obj\Debug\LinqWithTupelsExample.csproj.CoreCompileInputs.cache
+C:\My_github\problem-solving\44_day LinqWithTupelsExample\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\My_github\problem-solving\44_day LinqWithTupelsExample\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

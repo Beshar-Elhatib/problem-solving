@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\Mohammed Abu-Hadhoud\\22_dataStracture\\UsingIEnumerableExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFFBD86-B30D-41B7-844A-87D3C44B3007}|UsingIEnumerableExample\\UsingIEnumerableExample.csproj|c:\\c#\\mohammed abu-hadhoud\\22_datastracture\\usingienumerableexample\\usingienumerableexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFFBD86-B30D-41B7-844A-87D3C44B3007}|UsingIEnumerableExample\\UsingIEnumerableExample.csproj|solutionrelative:usingienumerableexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\Mohammed Abu-Hadhoud\\22_dataStracture\\UsingIEnumerableExample\\UsingIEnumerableExample\\Program.cs",
+              "RelativeDocumentMoniker": "UsingIEnumerableExample\\Program.cs",
+              "ToolTip": "C:\\C#\\Mohammed Abu-Hadhoud\\22_dataStracture\\UsingIEnumerableExample\\UsingIEnumerableExample\\Program.cs",
+              "RelativeToolTip": "UsingIEnumerableExample\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T19:52:55.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

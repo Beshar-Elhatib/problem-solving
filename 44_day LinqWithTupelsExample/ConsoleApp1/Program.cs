@@ -8,7 +8,8 @@ class LINQTuplesExample
     static void Main()
     {
         // List of tuples representing ID, Name, and Age
-        List<(int Id, string Name, int Age)> people = new List<(int, string, int)>
+        List<(int Id, string Name, int Age)> people = new List<(int Id, string Name, int Age)>
+
         {
             (1, "Alice", 30),
             (2, "Bob", 25),
