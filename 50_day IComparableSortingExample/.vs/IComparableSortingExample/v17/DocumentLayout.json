@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My_github\\problem-solving\\50_day IComparableSortingExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B728E2D-9C15-40FA-A54D-73E3FCDBEE29}|IComparableSortingExample\\IComparableSortingExample.csproj|c:\\my_github\\problem-solving\\50_day icomparablesortingexample\\icomparablesortingexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B728E2D-9C15-40FA-A54D-73E3FCDBEE29}|IComparableSortingExample\\IComparableSortingExample.csproj|solutionrelative:icomparablesortingexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\My_github\\problem-solving\\50_day IComparableSortingExample\\IComparableSortingExample\\Program.cs",
+              "RelativeDocumentMoniker": "IComparableSortingExample\\Program.cs",
+              "ToolTip": "C:\\My_github\\problem-solving\\50_day IComparableSortingExample\\IComparableSortingExample\\Program.cs",
+              "RelativeToolTip": "IComparableSortingExample\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T19:59:32.926Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
