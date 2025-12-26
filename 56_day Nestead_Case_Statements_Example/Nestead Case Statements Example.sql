@@ -3,7 +3,6 @@ use C21_DB1;
 
 
 
-select *from Employees2
 SELECT
     Name,
     Department,
